@@ -3,7 +3,7 @@ Grab-IT is a buy and sell platform of your daily needs as a college student. You
 The best part is its Absolutely FREE , No Commission ,No Subscription.
 
 ### Specially Developed for College Students by College Students.
-Live link to the project [[https://grabit.cbkm.in/](https://grabit.cbkm.in/)]
+Live link to the project [[http://ec2-3-87-5-186.compute-1.amazonaws.com:3000/](http://ec2-3-87-5-186.compute-1.amazonaws.com:3000/)]
 
 ## How to use
 
